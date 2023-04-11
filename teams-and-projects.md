@@ -4,12 +4,11 @@
 | Команда | Проект | Ближайший дедлайн | GitHub | Бонусы и штрафы | Оценка за проект |
 | ------- | ------ | ----------------- | ------ | --------------- | ---------------- |
 | Галеев Алиби, <br> Карбаев Саруар | Приложение для студентов ВШЭ | TBD | [HSE App](https://github.com/alad1nks/hseJavaCourseProject) | TBD | TBD |
-| Евгений Краснов, <br> Буланова Валерия, <br> Жумлякова Светлана | Приложение для голосований | TBD | [Voting](https://github.com/LanaShhh/Voting) | TBD | TBD |
-| Рита Арунова, <br> Садуллаев Музаффар, <br> Наталься Тимина, <br> Алексей Пырко | Приложение "Кошелёк" | TBD | [Wallet](https://github.com/MargaritaArunova/wallet) | TBD | TBD |
+| Евгений Краснов, <br> Буланова Валерия, <br> Жумлякова Светлана, <br> Петров Дамир | Приложение для голосований | TBD | [Voting](https://github.com/LanaShhh/Voting) | TBD | TBD |
+| Рита Арунова, <br> Садуллаев Музаффар, <br> Наталья Тимина, <br> Алексей Пырко | Приложение "Кошелёк" | TBD | [Wallet](https://github.com/MargaritaArunova/wallet) | TBD | TBD |
 | Сармин Павел, <br> Дидур Максим | Консольный органайзер | TBD | TBD | TBD | TBD |
 | Пустотин Даниил, <br> Анашкин Илья, <br> Чуканов Тимофей, <br>  Гудзь Михаил | Генератор коротких текстов | TBD | [Генератор коротких текстов](https://github.com/heartsker/Java-NLG) | TBD | TBD |
-| Эмиль Карачик (@ekarachik), <br> Анжелика Дашкевич (@Angela3214), <br> Ксения Карпенко (@nehikka), <br> Александр (@aleksander_lit) | Экстрактор метаданных и текста из файлов для быстрого поиска | TBD | [Экстрактор метаданных](https://github.com/xen234/project-metadata-extractor) | TBD | TBD |
-|Петров Дамир | Клоны текстовых утилит Unix | TBD | TBD | TBD | TBD |
+| Эмиль Карачик (@ekarachik), <br> Анжелика Дашкевич (@Angela3214), <br> Ксения Карпенко (@nehikka), <br> Александр Крагин (@aleksander_lit) | Экстрактор метаданных и текста из файлов для быстрого поиска | TBD | [Экстрактор метаданных](https://github.com/xen234/project-metadata-extractor) | TBD | TBD |
 
 
 Общие требования
